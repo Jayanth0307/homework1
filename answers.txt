@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+Both merge and rebase main functions are to integrate changes from one branch to another. However, the way changes are made are different. 
+For merge, all the past histories of main branch will not be deleted when integrating changes. However, for rebase history from main
+branch will be deleted from when the second branch was created so all the history of main branch will be replaced with the new branch history. 
